@@ -29,7 +29,7 @@ void getScore(int& s1)
 }
 int findLowest(int a, int b, int c, int d, int e)
 {
-	int min = INFINITY;
+	int min = 101;
 	if (a < min)
 	{
 		min = a;
