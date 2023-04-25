@@ -5,7 +5,7 @@ void getScore(int &s1);
 void calcAverage(int a,int b,int c,int d,int e);
 int findLowest(int a, int b, int c, int d, int e);
 
-int main1()
+int main()
 {
 	int a, b, c, d, e;
 	cout << "Type 5 scores\n";
